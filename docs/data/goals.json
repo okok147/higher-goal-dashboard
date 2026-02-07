@@ -1,0 +1,43 @@
+{
+  "owner": "Kelvin",
+  "timezone": "Asia/Hong_Kong",
+  "mission": "Increase income and options while maintaining strong health, discipline, and relationships through a repeatable daily operating system.",
+  "quarter_targets": [
+    {
+      "name": "Total Monthly Income",
+      "current": 16500,
+      "target": 30000,
+      "unit": "HKD"
+    },
+    {
+      "name": "Side Income",
+      "current": 0,
+      "target": 10000,
+      "unit": "HKD"
+    },
+    {
+      "name": "Skill Build Hours / Week",
+      "current": 8,
+      "target": 12,
+      "unit": "hours"
+    },
+    {
+      "name": "Sleep Consistency",
+      "current": 70,
+      "target": 90,
+      "unit": "%"
+    }
+  ],
+  "habits": [
+    "Morning reset: 15m mobility + 20m focused learning + 10m planning",
+    "30m commute walk used for business/sales audio learning",
+    "Night execution block completed (7-10PM)",
+    "No impulsive prop-firm risk; followed rulebook",
+    "Relationship touchpoint completed"
+  ],
+  "prop_firm_rules": [
+    "Risk per trade max 0.5%",
+    "Stop trading after 2 losses in one day",
+    "Challenge fees capped monthly"
+  ]
+}

@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Goal Dashboard</title>
+  <meta name="description" content="Auto-updating daily goal and plan dashboard">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="glow glow-a" aria-hidden="true"></div>
+  <div class="glow glow-b" aria-hidden="true"></div>
+
+  <header class="hero">
+    <p class="kicker">Daily Operating Dashboard</p>
+    <h1 id="owner-name">Goal System</h1>
+    <p id="mission" class="mission">Loading mission...</p>
+    <div class="hero-meta">
+      <span id="local-date">--</span>
+      <span id="timezone">--</span>
+      <span id="last-updated">--</span>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="panel">
+      <h2>Quarter Targets</h2>
+      <div id="target-cards" class="targets"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Today's Objective</h2>
+      <p id="today-objective" class="objective">Loading objective...</p>
+
+      <h3>Top Priorities</h3>
+      <ul id="top-priority-list" class="checklist"></ul>
+
+      <div class="progress-wrap">
+        <div class="progress-track" role="progressbar" aria-label="Completion">
+          <div id="progress-fill" class="progress-fill"></div>
+        </div>
+        <p id="completion-text" class="completion-text">0% complete</p>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Daily Schedule</h2>
+      <ul id="schedule-list" class="timeline"></ul>
+    </section>
+
+    <section class="panel">
+      <h2>Non-Negotiable Habits</h2>
+      <ul id="habit-list" class="checklist"></ul>
+    </section>
+
+    <section class="panel">
+      <h2>Accountability Notes</h2>
+      <p id="accountability-text" class="subtle"></p>
+      <label class="notes-label" for="notes">Daily reflection</label>
+      <textarea id="notes" rows="6" placeholder="What moved income, health, and relationships forward today?"></textarea>
+    </section>
+
+    <section class="panel">
+      <h2>Recent History</h2>
+      <ul id="history-list" class="history"></ul>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Auto-updated by GitHub Actions. Manual edits: <code>docs/data/goals.json</code>.</p>
+  </footer>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

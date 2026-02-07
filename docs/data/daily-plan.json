@@ -1,0 +1,35 @@
+{
+  "generated_at_utc": "2026-02-07T15:25:30.017Z",
+  "date_local": "2026-02-07",
+  "weekday": "Saturday",
+  "timezone": "Asia/Hong_Kong",
+  "objective": "Drive compounding through one deep build sprint and one recovery block.",
+  "top_priorities": [
+    "Complete one deep business build sprint",
+    "Run one focused outreach sprint",
+    "Complete Kilterboard session or active recovery"
+  ],
+  "schedule": [
+    {
+      "time": "07:15-08:00",
+      "title": "Morning reset: mobility + learning + daily plan"
+    },
+    {
+      "time": "14:00-16:30",
+      "title": "Kilterboard session (2.5h)"
+    },
+    {
+      "time": "19:00-20:30",
+      "title": "Business build sprint"
+    },
+    {
+      "time": "20:30-21:15",
+      "title": "Outreach sprint"
+    },
+    {
+      "time": "21:15-22:00",
+      "title": "Review + next-day setup"
+    }
+  ],
+  "accountability": "Win today by completing top priorities before low-value tasks."
+}
