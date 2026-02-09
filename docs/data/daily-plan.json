@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-02-08T23:44:12.244Z",
-  "date_local": "2026-02-09",
-  "weekday": "Monday",
+  "generated_at_utc": "2026-02-09T23:51:36.017Z",
+  "date_local": "2026-02-10",
+  "weekday": "Tuesday",
   "timezone": "Asia/Hong_Kong",
-  "objective": "Set weekly direction and execute one high-leverage business block.",
+  "objective": "Improve offer quality and move pipeline forward.",
   "top_priorities": [
-    "Lock weekly KPI targets and top 3 outcomes",
-    "Complete one deep skill-building block",
-    "Send first outreach batch for the week"
+    "Upgrade one client-facing asset",
+    "Do one focused outreach sprint",
+    "Track responses and book next follow-ups"
   ],
   "schedule": [
     {
@@ -28,15 +28,15 @@
     },
     {
       "time": "19:20-20:20",
-      "title": "Weekly planning + KPI setup"
+      "title": "Offer/portfolio improvement"
     },
     {
       "time": "20:20-21:20",
-      "title": "Business build sprint"
+      "title": "Outreach sprint"
     },
     {
       "time": "21:20-22:00",
-      "title": "Outreach + daily review"
+      "title": "CRM update + prop-firm review"
     }
   ],
   "accountability": "Win today by completing top priorities before low-value tasks."
