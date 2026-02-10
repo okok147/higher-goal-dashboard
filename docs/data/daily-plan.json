@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-02-09T23:51:36.017Z",
-  "date_local": "2026-02-10",
-  "weekday": "Tuesday",
+  "generated_at_utc": "2026-02-10T23:52:53.112Z",
+  "date_local": "2026-02-11",
+  "weekday": "Wednesday",
   "timezone": "Asia/Hong_Kong",
-  "objective": "Improve offer quality and move pipeline forward.",
+  "objective": "Maintain athletic progress while keeping business momentum.",
   "top_priorities": [
-    "Upgrade one client-facing asset",
-    "Do one focused outreach sprint",
-    "Track responses and book next follow-ups"
+    "Complete Kilterboard session with quality movement",
+    "Finish one compact business task before climbing",
+    "Protect recovery and sleep"
   ],
   "schedule": [
     {
@@ -27,16 +27,12 @@
       "title": "Recovery, dinner, short reset"
     },
     {
-      "time": "19:20-20:20",
-      "title": "Offer/portfolio improvement"
+      "time": "19:20-21:50",
+      "title": "Kilterboard session (2.5h)"
     },
     {
-      "time": "20:20-21:20",
-      "title": "Outreach sprint"
-    },
-    {
-      "time": "21:20-22:00",
-      "title": "CRM update + prop-firm review"
+      "time": "21:50-22:00",
+      "title": "Cooldown + tomorrow setup"
     }
   ],
   "accountability": "Win today by completing top priorities before low-value tasks."
