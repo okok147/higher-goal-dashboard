@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-02-10T23:52:53.112Z",
-  "date_local": "2026-02-11",
-  "weekday": "Wednesday",
+  "generated_at_utc": "2026-02-11T23:45:36.039Z",
+  "date_local": "2026-02-12",
+  "weekday": "Thursday",
   "timezone": "Asia/Hong_Kong",
-  "objective": "Maintain athletic progress while keeping business momentum.",
+  "objective": "Convert effort into opportunities with disciplined execution.",
   "top_priorities": [
-    "Complete Kilterboard session with quality movement",
-    "Finish one compact business task before climbing",
-    "Protect recovery and sleep"
+    "Ship one monetizable deliverable",
+    "Run one outreach + follow-up block",
+    "Complete risk-controlled trading review"
   ],
   "schedule": [
     {
@@ -27,12 +27,16 @@
       "title": "Recovery, dinner, short reset"
     },
     {
-      "time": "19:20-21:50",
-      "title": "Kilterboard session (2.5h)"
+      "time": "19:20-20:20",
+      "title": "Build/ship client deliverable"
     },
     {
-      "time": "21:50-22:00",
-      "title": "Cooldown + tomorrow setup"
+      "time": "20:20-21:20",
+      "title": "Outreach + follow-ups"
+    },
+    {
+      "time": "21:20-22:00",
+      "title": "Prop-firm review (rules first)"
     }
   ],
   "accountability": "Win today by completing top priorities before low-value tasks."
