@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-02-11T23:45:36.039Z",
-  "date_local": "2026-02-12",
-  "weekday": "Thursday",
+  "generated_at_utc": "2026-02-12T23:42:13.685Z",
+  "date_local": "2026-02-13",
+  "weekday": "Friday",
   "timezone": "Asia/Hong_Kong",
-  "objective": "Convert effort into opportunities with disciplined execution.",
+  "objective": "Close the week strong with relationship, finance, and plan quality.",
   "top_priorities": [
-    "Ship one monetizable deliverable",
-    "Run one outreach + follow-up block",
-    "Complete risk-controlled trading review"
+    "Weekly finance review and cashflow check",
+    "Quality relationship time block",
+    "Prepare high-clarity plan for weekend execution"
   ],
   "schedule": [
     {
@@ -27,16 +27,16 @@
       "title": "Recovery, dinner, short reset"
     },
     {
-      "time": "19:20-20:20",
-      "title": "Build/ship client deliverable"
+      "time": "19:20-20:00",
+      "title": "Finance + KPI review"
     },
     {
-      "time": "20:20-21:20",
-      "title": "Outreach + follow-ups"
+      "time": "20:00-21:30",
+      "title": "Relationship/social quality block"
     },
     {
-      "time": "21:20-22:00",
-      "title": "Prop-firm review (rules first)"
+      "time": "21:30-22:00",
+      "title": "Weekend plan setup"
     }
   ],
   "accountability": "Win today by completing top priorities before low-value tasks."
