@@ -33,5 +33,10 @@
     "date_local": "2026-02-13",
     "weekday": "Friday",
     "objective": "Close the week strong with relationship, finance, and plan quality."
+  },
+  {
+    "date_local": "2026-02-14",
+    "weekday": "Saturday",
+    "objective": "Drive compounding through one deep build sprint and one recovery block."
   }
 ]
