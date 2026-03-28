@@ -248,5 +248,10 @@
     "date_local": "2026-03-28",
     "weekday": "Saturday",
     "objective": "Drive compounding through one deep build sprint and one recovery block."
+  },
+  {
+    "date_local": "2026-03-29",
+    "weekday": "Sunday",
+    "objective": "Recover, reset, and prepare next week with precision."
   }
 ]
