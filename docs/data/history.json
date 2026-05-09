@@ -1,10 +1,5 @@
 [
   {
-    "date_local": "2026-02-09",
-    "weekday": "Monday",
-    "objective": "Set weekly direction and execute one high-leverage business block."
-  },
-  {
     "date_local": "2026-02-10",
     "weekday": "Tuesday",
     "objective": "Improve offer quality and move pipeline forward."
@@ -448,5 +443,10 @@
     "date_local": "2026-05-09",
     "weekday": "Saturday",
     "objective": "Drive compounding through one deep build sprint and one recovery block."
+  },
+  {
+    "date_local": "2026-05-10",
+    "weekday": "Sunday",
+    "objective": "Recover, reset, and prepare next week with precision."
   }
 ]
