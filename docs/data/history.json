@@ -1,10 +1,5 @@
 [
   {
-    "date_local": "2026-03-10",
-    "weekday": "Tuesday",
-    "objective": "Improve offer quality and move pipeline forward."
-  },
-  {
     "date_local": "2026-03-11",
     "weekday": "Wednesday",
     "objective": "Maintain athletic progress while keeping business momentum."
@@ -448,5 +443,10 @@
     "date_local": "2026-06-07",
     "weekday": "Sunday",
     "objective": "Recover, reset, and prepare next week with precision."
+  },
+  {
+    "date_local": "2026-06-08",
+    "weekday": "Monday",
+    "objective": "Set weekly direction and execute one high-leverage business block."
   }
 ]
