@@ -1,10 +1,5 @@
 [
   {
-    "date_local": "2026-04-18",
-    "weekday": "Saturday",
-    "objective": "Drive compounding through one deep build sprint and one recovery block."
-  },
-  {
     "date_local": "2026-04-19",
     "weekday": "Sunday",
     "objective": "Recover, reset, and prepare next week with precision."
@@ -448,5 +443,10 @@
     "date_local": "2026-07-16",
     "weekday": "Thursday",
     "objective": "Convert effort into opportunities with disciplined execution."
+  },
+  {
+    "date_local": "2026-07-17",
+    "weekday": "Friday",
+    "objective": "Close the week strong with relationship, finance, and plan quality."
   }
 ]
