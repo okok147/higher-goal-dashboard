@@ -1,10 +1,5 @@
 [
   {
-    "date_local": "2026-04-22",
-    "weekday": "Wednesday",
-    "objective": "Maintain athletic progress while keeping business momentum."
-  },
-  {
     "date_local": "2026-04-23",
     "weekday": "Thursday",
     "objective": "Convert effort into opportunities with disciplined execution."
@@ -448,5 +443,10 @@
     "date_local": "2026-07-20",
     "weekday": "Monday",
     "objective": "Set weekly direction and execute one high-leverage business block."
+  },
+  {
+    "date_local": "2026-07-21",
+    "weekday": "Tuesday",
+    "objective": "Improve offer quality and move pipeline forward."
   }
 ]
