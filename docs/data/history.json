@@ -1,10 +1,5 @@
 [
   {
-    "date_local": "2026-05-07",
-    "weekday": "Thursday",
-    "objective": "Convert effort into opportunities with disciplined execution."
-  },
-  {
     "date_local": "2026-05-08",
     "weekday": "Friday",
     "objective": "Close the week strong with relationship, finance, and plan quality."
@@ -448,5 +443,10 @@
     "date_local": "2026-08-04",
     "weekday": "Tuesday",
     "objective": "Improve offer quality and move pipeline forward."
+  },
+  {
+    "date_local": "2026-08-05",
+    "weekday": "Wednesday",
+    "objective": "Maintain athletic progress while keeping business momentum."
   }
 ]
